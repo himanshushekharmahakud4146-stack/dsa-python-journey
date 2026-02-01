@@ -11,3 +11,17 @@ Day 1:
 
 Goal:
 Practice daily and improve logic step by step.
+
+-------------------------
+
+Day 2:
+
+- Practiced loops using range()
+- Printed squares using for loop
+- Learned print with end=""
+- Solved HackerRank loop problems
+- Practiced LeetCode Running Sum
+- Improved understanding of iteration
+
+Goal:
+Get comfortable with loops and list processing.
