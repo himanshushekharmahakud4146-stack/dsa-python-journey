@@ -25,3 +25,17 @@ Day 2:
 
 Goal:
 Get comfortable with loops and list processing.
+
+-------------------------
+
+Day 3:
+
+- Practiced list comprehensions (HackerRank)
+- Used nested loops with conditions
+- Learned generating 3D coordinate lists
+- Solved LeetCode variable operation problem
+- Improved understanding of for-loops inside lists
+- Practiced class-based solutions
+
+Goal:
+Understand lists deeply and get comfortable with loops + conditions.
