@@ -54,3 +54,17 @@ Day 4:
 Goal:
 Strengthen list manipulation and problem-solving confidence.
 
+
+-------------------------
+
+Day 5:
+
+- Solved HackerRank Nested Lists problem
+- Learned working with nested lists
+- Practiced sorting values
+- Solved LeetCode Richest Customer Wealth
+- Calculated row-wise sums
+- Improved confidence with 2D lists
+
+Goal:
+Get comfortable with nested structures and list-based logic.
