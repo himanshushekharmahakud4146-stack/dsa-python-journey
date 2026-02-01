@@ -39,3 +39,18 @@ Day 3:
 
 Goal:
 Understand lists deeply and get comfortable with loops + conditions.
+
+-------------------------
+
+Day 4:
+
+- Solved HackerRank Runner-Up Score
+- Practiced removing duplicates using set()
+- Learned sorting lists
+- Solved LeetCode Kids With Greatest Number of Candies
+- Re-solved Runner-Up problem from notebook without help
+- Improved list logic and comparison skills
+
+Goal:
+Strengthen list manipulation and problem-solving confidence.
+
