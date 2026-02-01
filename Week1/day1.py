@@ -46,8 +46,3 @@ try :
         print(y," is Zero")
 except:
     print(x," is not a integer")
-    
-
-       
-        
-
