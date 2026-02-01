@@ -68,3 +68,18 @@ Day 5:
 
 Goal:
 Get comfortable with nested structures and list-based logic.
+
+-------------------------
+
+Day 6:
+
+- Solved HackerRank Finding the Percentage
+- Practiced dictionaries with student marks
+- Learned accessing values using keys
+- Solved LeetCode Contains Duplicate
+- Used set() to detect duplicates
+- Revised dictionary basics from notebook
+
+Goal:
+Strengthen dictionary concepts and improve data lookup logic.
+
