@@ -1,7 +1,6 @@
 # Python Practice – Month 2
 
 This repository contains my Week 1 Python learning journey.
-
 Topics covered:
 - Basic Python
 - Loops
