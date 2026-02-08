@@ -1,0 +1,19 @@
+Week 2 Summary:
+Dictionaries + HashMaps + Frequency Patterns + HackerRank + LeetCode
+
+Week 2 Notes – Python Intermediate Practice
+
+
+Day 8:
+- Learned dictionary basics
+- Understood key-value pairs
+- Practiced updating dictionary values
+- Used dictionary for counting elements
+- HackerRank: Dictionaries & Maps problem
+- LeetCode: Two Sum using hashmap
+- Understood why hashmap gives O(n) solution
+
+
+Goal:
+Improve problem-solving using dictionaries and hashing.
+Practice logic step by step.
