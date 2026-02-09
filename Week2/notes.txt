@@ -50,4 +50,14 @@ Day 11:
 - HackerRank: String Split and Join problem
 - Solved LeetCode First Unique Character in a String
 - Used dictionary for frequency counting in strings
+----------------------------
+
+Day 12:
+- Learned how to use collections.Counter
+- Understood difference between Counter and manual dictionary
+- Practiced counting frequency using Counter
+- Learned most_common() method
+- Solved LeetCode Majority Element problem
+- Understood early return optimization using dictionary
+- Compared dict.get() vs Counter usage
 
