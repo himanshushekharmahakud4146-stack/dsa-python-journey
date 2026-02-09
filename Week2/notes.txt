@@ -40,4 +40,14 @@ Day 10:
 - Learned why tuple can be used as dictionary key
 - Practiced sorting list of tuples by value
 
+----------------------------
+
+Day 11:
+- Learned string split() method
+- Learned string join() method
+- Practiced removing extra spaces using split
+- Practiced joining words with different separators
+- HackerRank: String Split and Join problem
+- Solved LeetCode First Unique Character in a String
+- Used dictionary for frequency counting in strings
 
