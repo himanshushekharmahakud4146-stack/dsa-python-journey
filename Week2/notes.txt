@@ -17,3 +17,15 @@ Day 8:
 Goal:
 Improve problem-solving using dictionaries and hashing.
 Practice logic step by step.
+
+----------------------------
+
+Day 9:
+- Learned set basics
+- Practiced set.add() method
+- Understood set union and intersection
+- Learned difference between set and list
+- Solved LeetCode Valid Anagram problem
+- Used dictionary for character counting
+- Understood frequency comparison between two strings
+
