@@ -1,17 +1,27 @@
 # Week 2 – Python Practice
 
-This week focuses on problem-solving using Python.
+Focus:
+Dictionaries, Sets, Tuples, Frequency Patterns
 
 ## Topics Covered
-- Dictionaries
+- Dictionaries and hashmaps
+- Set operations
+- Tuple usage and sorting
 - Frequency counting
-- Tuple sorting
-- Hashmap patterns
-- LeetCode problems
+- Top K frequent elements
 
-## Problems Practiced
-- Two Sum
-- Group Anagrams
-- Top K Frequent Elements
-- Company Logo (HackerRank)
-- Piling Up! (HackerRank)
+## Platforms
+- HackerRank
+- LeetCode
+
+## Daily Progress
+- Day 8: Dictionaries & Two Sum
+- Day 9: Sets & Valid Anagram
+- Day 10: Tuples & Group Anagrams
+- Day 11: String Split/Join & First Unique Character
+- Day 12: Counter & Majority Element
+- Day 13: Frequency patterns & Top K elements
+- Day 14: Weekly review and consolidation
+
+## Outcome
+Built strong foundation in hashing and frequency-based problems.
