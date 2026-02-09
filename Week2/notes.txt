@@ -60,4 +60,14 @@ Day 12:
 - Solved LeetCode Majority Element problem
 - Understood early return optimization using dictionary
 - Compared dict.get() vs Counter usage
+----------------------------
+
+Day 13:
+- Practiced word counting using dictionary
+- Solved a medium-style frequency problem
+- Solved LeetCode Top K Frequent Elements
+- Learned top-k frequency extraction logic
+- Practiced converting list to frequency dictionary
+- Practiced sorting dictionary by values
+- Understood reusable frequency pattern
 
