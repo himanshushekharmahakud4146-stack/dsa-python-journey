@@ -29,3 +29,15 @@ Day 9:
 - Used dictionary for character counting
 - Understood frequency comparison between two strings
 
+----------------------------
+
+Day 10:
+- Learned tuple basics
+- Understood immutability of tuples
+- Practiced using tuples with hash()
+- HackerRank: Tuples problem
+- Solved LeetCode Group Anagrams using sorted tuple as key
+- Learned why tuple can be used as dictionary key
+- Practiced sorting list of tuples by value
+
+
