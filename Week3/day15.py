@@ -28,6 +28,13 @@ s = 'hello world'
 
 print(solution(s))
 
+# swapcase()
+def swap_case(s):
+    return s.swapcase()
+    
+s = HackerRank.com presents "Pythonist 2".
+print(solution(s))
+
 
 # =================================================
 # LeetCode 125: Valid Palindrome
